@@ -12,10 +12,12 @@
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Skills & Tools        🛠 Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
+
+
+### 💻 Programming
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <span>Python</span>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
@@ -26,57 +28,89 @@
 
 ---
 
+### 📊 Data Science & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="30"/>
+  <span>Power BI</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <span>Pandas</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <span>NumPy</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <span>Matplotlib</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <span>MySQL</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" height="30"/>
+  <span>Seaborn</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Feature%20Engineering-FF6F00?style=flat-square" height="30"/>
+  <span>Feature Engineering</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/EDA-1E90FF?style=flat-square" height="30"/>
+  <span>EDA</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-6A5ACD?style=flat-square" height="30"/>
+  <span>Data Preprocessing</span>
+</p>
+
+---
+
 ### 🤖 AI / Machine Learning
-<p align="left">
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" height="30"/>
+  <span>Scikit-learn</span>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <span>TensorFlow</span>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <span>PyTorch</span>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
-  <span>OpenCV</span>
+  <img src="https://img.shields.io/badge/CNNs-FF6F00?style=flat-square" height="30"/>
+  <span>CNNs</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RNN-6A5ACD?style=flat-square" height="30"/>
+  <span>RNN</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/YOLOv11-FF0000?style=flat-square" height="30"/>
+  <span>YOLOv11</span>
 </p>
 
 ---
 
 ### 🧠 Generative AI & NLP
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" height="30"/>
-  <span>LLMs</span>&nbsp;&nbsp;&nbsp;
+  <span>Large Language Models</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square" height="30"/>
+  <span>Prompt Engineering</span>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RAG-1E90FF?style=flat-square" height="30"/>
   <span>RAG</span>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square" height="30"/>
-  <span>Prompt Engineering</span>
+  <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square" height="30"/>
+  <span>Model Context Protocol</span>
 </p>
 
 ---
 
-### 📊 Data Science & Visualization
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <span>Pandas</span>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <span>NumPy</span>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="30"/>
-  <span>Power BI</span>
-</p>
-
----
-
-### ⚙️ Backend & Tools
-<p align="left">
+### ⚙️ Backend & Deployment
+<p>
+  <img src="https://img.shields.io/badge/APIs-000000?style=flat-square" height="30"/>
+  <span>APIs</span>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
   <span>Flask</span>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
   <span>Django</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <span>Git</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <span>GitHub</span>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <span>Docker</span>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <span>Git</span>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" height="30"/>
+  <span>Streamlit</span>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+  <span>GCP</span>
 </p>
+
 
 ---
 
-## 📚 Projects
+
+
+### 📚 Projects
+
 
 ### 🚦 Traffic Fine System for Heavy Vehicles
 - Built a **YOLOv11-based computer vision system** for detecting heavy vehicles  
@@ -160,3 +194,7 @@
 - 🧩 LeetCode: https://leetcode.com/u/M_Lalpradhap/  
 
 ---
+
+
+
+
