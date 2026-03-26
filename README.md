@@ -189,7 +189,7 @@
 
 ## 📫 Let's Connect
 
-- ✉️ lalpradhapking@gmail.com  
+- ✉️ lalpradhapking@gmail.com
 - 🧑‍💻 GitHub: https://github.com/Pradhap25  
 - 🧩 LeetCode: https://leetcode.com/u/M_Lalpradhap/  
 
